@@ -1,0 +1,24 @@
+// Component for project and toggleable content projectdetails
+// function ShowProjectDetails({project_object}){
+//   return(
+
+//       <React.Fragment>
+//         {project_object.map((project_object_data)=> {console.log(project_object_data.description)})}
+
+//           <div className="card">
+//           {/* <p>{description}</p> */}
+//           </div>
+//       </React.Fragment>)
+// }
+
+// function ShowProject(){
+//   return (
+//   <React.Fragment>
+//       <div className="DisplayCardsBig">
+//       <p>{title}</p> 
+//       <p aria-hidden hidden>{category}</p>
+//       <a onClick={this.Toggle_OnImageAction}><img src = {image} style = {{width:200, height:120}}></img></a>
+//       {DisplayDetails}                
+//       </div>   
+//   </React.Fragment>)
+// }
